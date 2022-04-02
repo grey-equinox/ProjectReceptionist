@@ -1,0 +1,28 @@
+@CHARSET "ISO-8859-1";
+
+.btn btn-primary{
+	margin-bottom: 20px;
+}
+
+#logimg{
+	max-width: 50% !important;
+	margin-bottom: 20px !important;
+}
+
+#logformh2{
+	text-align: center !important;
+	margin-bottom: 20px !important;
+}
+
+#loginbtn{
+	margin-bottom: 20px;
+}
+
+#logincontainer{
+	margin-top: 20px;
+}
+
+#fieldtabs, #fieldtabs1{
+	min-width: 105px !important;
+}
+
